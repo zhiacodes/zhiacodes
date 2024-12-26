@@ -1,5 +1,7 @@
 ## Hi there 👋
-
+My name is Chidimma Christabel \
+I am a student of criminology and security studies at [coou](https://coou.edu.ng) \
+I am currently learning Python. 
 <!--
 **zhiacodes/zhiacodes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
